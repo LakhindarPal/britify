@@ -1,0 +1,18 @@
+export default [
+  "hindi",
+  "tamil",
+  "telugu",
+  "english",
+  "punjabi",
+  "marathi",
+  "gujarati",
+  "bengali",
+  "kannada",
+  "bhojpuri",
+  "malayalam",
+  "urdu",
+  "haryanvi",
+  "rajasthani",
+  "odia",
+  "assamese",
+];
